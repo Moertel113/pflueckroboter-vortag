@@ -1,0 +1,7 @@
+*
+!.gitignore
+!*.sty
+!images/**
+!*.tex
+!*.png
+!*.cls
